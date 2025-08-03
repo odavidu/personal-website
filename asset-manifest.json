@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c257a99.css",
-    "main.js": "/static/js/main.b43b7939.js",
+    "main.css": "/static/css/main.752292f7.css",
+    "main.js": "/static/js/main.169014bc.js",
+    "static/media/remixicon.svg?t=1734404658139": "/static/media/remixicon.df9902a6df13645438e1.svg",
+    "static/media/remixicon.eot?t=1734404658139": "/static/media/remixicon.29066d810a74e994be27.eot",
+    "static/media/remixicon.ttf?t=1734404658139": "/static/media/remixicon.868d1a768f4762dbcc3e.ttf",
+    "static/media/remixicon.woff?t=1734404658139": "/static/media/remixicon.ce82bb240fef24f93f95.woff",
+    "static/media/remixicon.woff2?t=1734404658139": "/static/media/remixicon.bb211d855a1864aa5b67.woff2",
     "static/media/raleway-italic.woff2": "/static/media/raleway-italic.aae6625231fdfd081cb6.woff2",
     "static/media/raleway-normal.woff2": "/static/media/raleway-normal.6d44a1aa52ccd7543d50.woff2",
     "static/media/roboto-mono-italic.woff2": "/static/media/roboto-mono-italic.4588a39e395fdc24aea4.woff2",
     "static/media/roboto-mono-normal.woff2": "/static/media/roboto-mono-normal.1c6aea2061af225e76d0.woff2",
     "index.html": "/index.html",
-    "main.4c257a99.css.map": "/static/css/main.4c257a99.css.map",
-    "main.b43b7939.js.map": "/static/js/main.b43b7939.js.map"
+    "main.752292f7.css.map": "/static/css/main.752292f7.css.map",
+    "main.169014bc.js.map": "/static/js/main.169014bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c257a99.css",
-    "static/js/main.b43b7939.js"
+    "static/css/main.752292f7.css",
+    "static/js/main.169014bc.js"
   ]
 }
