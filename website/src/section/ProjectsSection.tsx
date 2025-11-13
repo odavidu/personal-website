@@ -31,11 +31,11 @@ export function ProjectsSection() {
                     img="img/letsprep.png" github="https://github.com/odavidu/letsprep" link=""
                 />
                 <Project
-                    name="Minecraft Server" start="Jun. 2017" end="Oct. 2022"
+                    name="Minecraft Server" start="Jun. 2020" end="Oct. 2024"
                     desc="I founded and managed a Minecraft Bedrock Edition server called NexusPE, which became the top result for
                     'nexuspe' on YouTube. The server attracted over 100,000 registered players and built a strong community of 1,000+
                     active Discord members. With custom-coded content and reliable performance, NexusPE consistently generated over
-                    $1,000 in monthly revenue. I led all aspects of development and operations, including Linux server administration,
+                    $2,000 in monthly revenue. I led all aspects of development and operations, including Linux server administration,
                     plugin development, backend integration, and community engagement."
                     skills={[
                         {id: "Object-Oriented Programming (OOP)", url: "https://en.wikipedia.org/wiki/Object-oriented_programming"},
