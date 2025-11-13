@@ -20,7 +20,15 @@ export function ExperienceSection() {
                 style={{borderLeft: `${borderWidth}px solid ${color}`}}
             >
                 <Experience
-                    name="Platform Governance Research Lab"
+                    name="LLM Research Lab"
+                    logo="img/bu.png"
+                    url="#"
+                    position="Lead Undergraduate Researcher"
+                    start="Nov. 2025"
+                    end="Present"
+                />
+                <Experience
+                    name="Platform Governance Lab"
                     logo="img/dirl.png"
                     url="https://truthmarket.com"
                     position="Undergraduate Research Assistant"
